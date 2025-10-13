@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund+Guides&display=swap');
+
 body{
     background-color: bisque;
     color: red;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0;
+    font-family: ;""
+}
+button{
+    background-color: aqua;
+    color: aliceblue;
+    padding: 20px;
 }
