@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund+Guides&display=swap');
 
 body{
-    background-color: bisque;
-    color: red;
+    background-color: black;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body{
     font-family: ;""
 }
 button{
-    background-color: aqua;
-    color: aliceblue;
+    background-color: #64a712;
+    color: white;
     padding: 20px;
 }
